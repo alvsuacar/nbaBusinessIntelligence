@@ -1,0 +1,21 @@
+# Archivos Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Datos generados
+datos/*.csv
+
+# Power BI archivos temporales
+*.tmp.pbix
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
