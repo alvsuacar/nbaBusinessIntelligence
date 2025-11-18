@@ -5,8 +5,8 @@
 ## 📁 Contenido del repositorio
 
 -   **/api_extraccion/** → Script en Python para obtener los datos desde
-    la API.\
--   **/powerbi/** → Archivo `.pbix` del dashboard completo.\
+    la API.
+-   **/powerbi/** → Archivo `.pbix` del dashboard completo.
 -   **README.md** → Documentación del proyecto.
 
 ## 🏀 Introducción
@@ -26,9 +26,9 @@ de la NBA durante la temporada 2023/2024.
 
 ### ✔️ Objetivos específicos
 
--   Extraer estadísticas mediante Python y la API api-nba.\
--   Limpiar, transformar y modelar datos.\
--   Crear modelo estrella.\
+-   Extraer estadísticas mediante Python y la API api-nba.
+-   Limpiar, transformar y modelar datos.
+-   Crear modelo estrella.
 -   Diseñar visualizaciones útiles y comparativas.
 
 ## 🛠️ Metodología
@@ -47,11 +47,11 @@ Modelo estrella con tabla de hechos y dimensiones.
 
 ### 4️⃣ Visualizaciones
 
--   Puntos totales\
--   Media de puntos\
--   Rendimiento frente a rivales\
--   Porcentaje de tiro\
--   Evolución de puntos\
+-   Puntos totales
+-   Media de puntos
+-   Rendimiento frente a rivales
+-   Porcentaje de tiro
+-   Evolución de puntos
 -   Comparación local vs visitante
 
 ## 📈 Resultados
@@ -76,9 +76,9 @@ datos abiertos.
 
 ## 🔮 Trabajos futuros
 
--   Ampliar temporadas\
--   Añadir más variables\
--   Automatizar pipeline\
+-   Ampliar temporadas
+-   Añadir más variables
+-   Automatizar pipeline
 -   Análisis predictivo
 
 ## 📦 Cómo ejecutar este proyecto
@@ -89,5 +89,5 @@ python extraccionAPI.py
 
 ## 👥 Autores
 
--   Álvaro Suárez Carbonell\
+-   Álvaro Suárez Carbonell
 -   Alberto Vargas Miñagorri
