@@ -84,7 +84,7 @@ datos abiertos.
 ## 📦 Cómo ejecutar este proyecto
 
 ``` bash
-python extractor_nba.py
+python extraccionAPI.py
 ```
 
 ## 👥 Autores
